@@ -1,0 +1,26 @@
+{
+  "name": "aruma",
+  "identifier": "com.aruma.source",
+  "apps": [
+    {
+      "beta": false,
+      "name": "Aruma",
+      "bundleIdentifier": "it.aruma.ble",
+      "developerName": "Aruma",
+      "subtitle": "BLE",
+      "version": "v1.0.0",
+      "versionDate": "2024-10-13T22:26:00+02:00",
+      "versionDescription": "Init.",
+      "downloadURL": "https://github.com/flyinghead/flycast/releases/download/v2.3.2/Flycast-2.3.2.ipa",
+      "localizedDescription": "BLE",
+      "iconURL": "https://github.com/flyinghead/flycast/raw/master/shell/linux/flycast.png",
+      "tintColor": "9b54fd",
+      "size": 7340264,
+      "appPermissions": {
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "App use bluetooth to connect to printer"
+        }
+      }
+    }
+  ]
+}
