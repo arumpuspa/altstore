@@ -4,7 +4,7 @@
   "apps": [
     {
       "beta": false,
-      "name": "Aruma",
+      "name": "BLE",
       "bundleIdentifier": "it.aruma.ble",
       "developerName": "Aruma",
       "subtitle": "BLE",
