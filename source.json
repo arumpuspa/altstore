@@ -4,14 +4,14 @@
   "apps": [
     {
       "beta": false,
-      "name": "BLE",
+      "name": "BLE2",
       "bundleIdentifier": "it.aruma.ble",
       "developerName": "Aruma",
-      "subtitle": "BLE",
+      "subtitle": "BLE2",
       "version": "0.0.1",
       "versionDate": "2024-10-13T22:26:00+02:00",
       "versionDescription": "Init.",
-      "downloadURL": "https://arumpuspa.github.io/altstore/RNBLE.ipa",
+      "downloadURL": "https://arumpuspa.github.io/altstore/RNBLE2.ipa",
       "localizedDescription": "BLE",
       "iconURL": "https://github.com/flyinghead/flycast/raw/master/shell/linux/flycast.png",
       "tintColor": "9b54fd",
