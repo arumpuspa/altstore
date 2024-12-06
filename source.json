@@ -20,7 +20,7 @@
         "privacy": {
           "NSBluetoothAlwaysUsageDescription": "App use bluetooth to connect to printer",
           "NSCameraUsageDescription": "App use camera to take picture of guests",
-          "NSMicrophoneUsageDescription": "App uses the microphone to record audio.",
+          "NSMicrophoneUsageDescription": "App uses the microphone to record audio."
         }
       }
     }
