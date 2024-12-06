@@ -4,6 +4,28 @@
   "apps": [
     {
       "beta": false,
+      "name": "Sapa Tamu",
+      "bundleIdentifier": "com.sapatamu.app",
+      "developerName": "Sapa Tamu",
+      "subtitle": "Sapa Tamu",
+      "version": "0.0.1",
+      "versionDate": "2024-12-05T22:26:00+02:00",
+      "versionDescription": "Initial",
+      "downloadURL": "https://arumpuspa.github.io/altstore/SapaTamu.ipa",
+      "localizedDescription": "Sapa Tamu",
+      "iconURL": "https://github.com/flyinghead/flycast/raw/master/shell/linux/flycast.png",
+      "tintColor": "9b54fd",
+      "size": 7340264,
+      "appPermissions": {
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "App use bluetooth to connect to printer",
+          "NSCameraUsageDescription": "App use camera to take picture of guests",
+          "NSMicrophoneUsageDescription": "App uses the microphone to record audio.",
+        }
+      }
+    }
+    {
+      "beta": false,
       "name": "BLE2",
       "bundleIdentifier": "it.aruma.ble",
       "developerName": "Aruma",
