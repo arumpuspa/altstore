@@ -11,7 +11,7 @@
       "version": "1.0.0",
       "versionDate": "2024-12-05T22:26:00+02:00",
       "versionDescription": "Initial",
-      "downloadURL": "https://arumpuspa.github.io/altstore/SapaTamu.ipa",
+      "downloadURL": "https://arumpuspa.github.io/altstore/SapaTamu2.ipa",
       "localizedDescription": "Sapa Tamu",
       "iconURL": "https://github.com/flyinghead/flycast/raw/master/shell/linux/flycast.png",
       "tintColor": "9b54fd",
@@ -22,7 +22,25 @@
           "NSCameraUsageDescription": "App use camera to take picture of guests",
           "NSMicrophoneUsageDescription": "App uses the microphone to record audio."
         }
-      }
+      },
+      "versions": [
+        {
+          "version": "1.0.1",
+          "buildVersion": "2",
+          "date": "2024-12-07",
+          "localizedDescription": "First Update",
+          "downloadURL": "https://arumpuspa.github.io/altstore/SapaTamu2.ipa",
+          "size": 80925
+        },
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2024-03-30",
+          "localizedDescription": "First release!",
+          "downloadURL": "https://arumpuspa.github.io/altstore/SapaTamu.ipa",
+          "size": 79821
+        }
+      ]
     },
     {
       "beta": false,
