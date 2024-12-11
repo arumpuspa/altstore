@@ -25,6 +25,14 @@
       },
       "versions": [
         {
+          "version": "1.0.2",
+          "buildVersion": "1",
+          "date": "2024-12-11",
+          "localizedDescription": "Second Update",
+          "downloadURL": "https://arumpuspa.github.io/altstore/SapaTamu3.ipa",
+          "size": 79821
+        },
+        {
           "version": "1.0.1",
           "buildVersion": "1",
           "date": "2024-12-07",
@@ -39,7 +47,7 @@
           "localizedDescription": "First release!",
           "downloadURL": "https://arumpuspa.github.io/altstore/SapaTamu.ipa",
           "size": 79821
-        }
+        },
       ]
     },
     {
