@@ -25,6 +25,14 @@
       },
       "versions": [
         {
+          "version": "1.0.3",
+          "buildVersion": "1",
+          "date": "2024-12-12",
+          "localizedDescription": "Fixed print",
+          "downloadURL": "https://arumpuspa.github.io/altstore/SapaTamu4.ipa",
+          "size": 79821
+        },
+        {
           "version": "1.0.2",
           "buildVersion": "1",
           "date": "2024-12-11",
